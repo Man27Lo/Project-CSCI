@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Computer Science History</title>
+</head>
+<body style="background-color: black; font: size 500%; font-family: Arial; color: lime;">
+
+    This website will give a brief history of 
+    computer science going all the way back to
+     its initial concept and into the modern era
+</body>
+
+
+<style>
+    h1{color:lime;font: size 350%;text-align:  center;}
+    h2{color:white; text-align: center;background-color: black;}
+</style>
+
+<h1> "A Brief History of Computer Science"</h1>
+</p>
+
+
